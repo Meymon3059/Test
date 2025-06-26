@@ -1,5 +1,1 @@
-$ git init
-$ git add .
-$ git commit -m "first commit"
-$ git remote add origin URL
-$ git push -u origin master
+https://github.com/Meymon3059/Nylai.teacherfield.io.git
