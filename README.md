@@ -1,1 +1,1 @@
-~/Desktop > https://github.com/Meymon3059/Nylai.teacherfield.io.git
+git clone https://github.com/Meymon3059/Nylai.teacherfield.io.git
